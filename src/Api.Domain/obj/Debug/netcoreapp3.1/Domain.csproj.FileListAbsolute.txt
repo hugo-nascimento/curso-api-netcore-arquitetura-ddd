@@ -1,0 +1,9 @@
+D:\Backup SSD E\Curso .Net Core\curso_api_netcore\src\Api.Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\Backup SSD E\Curso .Net Core\curso_api_netcore\src\Api.Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Backup SSD E\Curso .Net Core\curso_api_netcore\src\Api.Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Backup SSD E\Curso .Net Core\curso_api_netcore\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+D:\Backup SSD E\Curso .Net Core\curso_api_netcore\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\Backup SSD E\Curso .Net Core\curso_api_netcore\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\Backup SSD E\Curso .Net Core\curso_api_netcore\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\Backup SSD E\Curso .Net Core\curso_api_netcore\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\Backup SSD E\Curso .Net Core\curso_api_netcore\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.pdb

@@ -1,0 +1,15 @@
+D:\Backup SSD E\Curso .Net Core\curso_api_netcore\src\Api.Data\bin\Debug\netcoreapp3.1\Data.deps.json
+D:\Backup SSD E\Curso .Net Core\curso_api_netcore\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+D:\Backup SSD E\Curso .Net Core\curso_api_netcore\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+D:\Backup SSD E\Curso .Net Core\curso_api_netcore\src\Api.Data\bin\Debug\netcoreapp3.1\Data.dll
+D:\Backup SSD E\Curso .Net Core\curso_api_netcore\src\Api.Data\bin\Debug\netcoreapp3.1\Data.pdb
+D:\Backup SSD E\Curso .Net Core\curso_api_netcore\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Backup SSD E\Curso .Net Core\curso_api_netcore\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Backup SSD E\Curso .Net Core\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.AssemblyReference.cache
+D:\Backup SSD E\Curso .Net Core\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+D:\Backup SSD E\Curso .Net Core\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+D:\Backup SSD E\Curso .Net Core\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+D:\Backup SSD E\Curso .Net Core\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+D:\Backup SSD E\Curso .Net Core\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.dll
+D:\Backup SSD E\Curso .Net Core\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.pdb
+D:\Backup SSD E\Curso .Net Core\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache

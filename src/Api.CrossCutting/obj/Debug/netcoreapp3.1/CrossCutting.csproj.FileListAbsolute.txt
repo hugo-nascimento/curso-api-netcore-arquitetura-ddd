@@ -1,0 +1,16 @@
+D:\Backup SSD E\Curso .Net Core\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.deps.json
+D:\Backup SSD E\Curso .Net Core\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.dll
+D:\Backup SSD E\Curso .Net Core\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.pdb
+D:\Backup SSD E\Curso .Net Core\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Data.dll
+D:\Backup SSD E\Curso .Net Core\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Backup SSD E\Curso .Net Core\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Service.dll
+D:\Backup SSD E\Curso .Net Core\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Backup SSD E\Curso .Net Core\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Service.pdb
+D:\Backup SSD E\Curso .Net Core\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Data.pdb
+D:\Backup SSD E\Curso .Net Core\curso_api_netcore\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.AssemblyReference.cache
+D:\Backup SSD E\Curso .Net Core\curso_api_netcore\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfoInputs.cache
+D:\Backup SSD E\Curso .Net Core\curso_api_netcore\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfo.cs
+D:\Backup SSD E\Curso .Net Core\curso_api_netcore\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CoreCompileInputs.cache
+D:\Backup SSD E\Curso .Net Core\curso_api_netcore\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CopyComplete
+D:\Backup SSD E\Curso .Net Core\curso_api_netcore\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.dll
+D:\Backup SSD E\Curso .Net Core\curso_api_netcore\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.pdb

@@ -1,0 +1,5 @@
+D:\Backup SSD E\Curso .Net Core\curso_api_netcore\src\Api.Application\obj\Debug\netcoreapp3.1\application.csproj.AssemblyReference.cache
+D:\Backup SSD E\Curso .Net Core\curso_api_netcore\src\Api.Application\obj\Debug\netcoreapp3.1\application.AssemblyInfoInputs.cache
+D:\Backup SSD E\Curso .Net Core\curso_api_netcore\src\Api.Application\obj\Debug\netcoreapp3.1\application.AssemblyInfo.cs
+D:\Backup SSD E\Curso .Net Core\curso_api_netcore\src\Api.Application\obj\Debug\netcoreapp3.1\application.csproj.CoreCompileInputs.cache
+D:\Backup SSD E\Curso .Net Core\curso_api_netcore\src\Api.Application\obj\Debug\netcoreapp3.1\application.MvcApplicationPartsAssemblyInfo.cache
